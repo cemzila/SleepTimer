@@ -4,8 +4,8 @@
     "name": "Uyku Alarmı",
     "version": "1.0",
   
-    "description": "Adds a browser action icon to the toolbar. Click the button to set a timer. Input the length of time amount of time you want to study to keep track of time while doing work. See https://github.com/ossd-sp22/study-timer",
-    "homepage_url": "https://github.com/ossd-sp22/study-timer",
+    "description": "Uyku Saatini Kaçırmamak İçin Saat Kurun https://github.com/cemzila/SleepTimer",
+    "homepage_url": "https://github.com/cemzila/SleepTimer",
     "icons": {
       "48": "icons/timer-48.png"
     },
